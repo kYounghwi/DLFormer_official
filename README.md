@@ -22,3 +22,7 @@ pip install -r requirements.txt
 ```
 python main.py --data SML --pred 96 --seq 48 --batch_size 32 --log_interval 1 --plot_interval 30
 ```
+
+**Results**
+
+You can check the plots for validation and test in the results subfolder!
