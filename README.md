@@ -1,5 +1,9 @@
 # DLFormer
 The repo is the official implementation for the paper: [DLFormer: Enhancing Explainability in Time Series Forecasting using Distributed Lag Machanism](https://arxiv.org/abs/2408.16896)
+
+# Architecture
+![Image](https://github.com/user-attachments/assets/23e28688-5c22-4848-b773-4383795e5177)
+
 # Usage
 **Installation**
 
