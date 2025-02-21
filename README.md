@@ -13,7 +13,7 @@ The repo is the official implementation for the paper: [DLFormer: Enhancing Expl
 Step1: Create a conda environment and activate it
 ```
 conda create -n DLFormer python==3.8 --y
-conda activate fontdiffuser
+conda activate DLFormer
 ```
 Step2: Install related version Pytorch following [here](https://pytorch.org/get-started/previous-versions/).
 ```
