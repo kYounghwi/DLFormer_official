@@ -6,6 +6,10 @@ The repo is the official implementation for the paper: [DLFormer: Enhancing Expl
 ![Image](https://github.com/user-attachments/assets/2a8c5705-d833-4cb2-871a-9749450af9e2)
 **DL Embedding**
 ![Image](https://github.com/user-attachments/assets/813a3b69-cac5-42c1-bf7f-1b062f71efce)
+**Global Explainability**
+![Image](https://github.com/user-attachments/assets/85816788-4de0-4de6-85c2-c3dd2526b51a)
+**Local Explainability**
+![Image](https://github.com/user-attachments/assets/b7365dbb-21a3-4fb0-b615-8caaaf3fbaff)
 
 # Usage
 **Installation**
