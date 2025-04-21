@@ -6,10 +6,6 @@ The repo is the official implementation for the paper: [DLFormer: Enhancing Expl
 ![Image](https://github.com/user-attachments/assets/2a8c5705-d833-4cb2-871a-9749450af9e2)
 **DL Embedding**
 ![Image](https://github.com/user-attachments/assets/813a3b69-cac5-42c1-bf7f-1b062f71efce)
-**Global Explainability**
-![Image](https://github.com/user-attachments/assets/85816788-4de0-4de6-85c2-c3dd2526b51a)
-**Local Explainability**
-![Image](https://github.com/user-attachments/assets/b7365dbb-21a3-4fb0-b615-8caaaf3fbaff)
 
 # Usage
 **Installation**
@@ -34,7 +30,14 @@ pip install -r requirements.txt
 python main.py --data SML --pred 96 --seq 48 --batch_size 32 --log_interval 1 --plot_interval 30
 ```
 
-**Notice**
+# Explainability
+
+**Global Explainability**
+![Image](https://github.com/user-attachments/assets/85816788-4de0-4de6-85c2-c3dd2526b51a)
+**Local Explainability**
+![Image](https://github.com/user-attachments/assets/b7365dbb-21a3-4fb0-b615-8caaaf3fbaff)
+
+# Notice
 
 - You can check the plots for validation and test in the results subfolder!
 - Due to the DLFormer’s Temporal-Variate-Aware Learning strategy, the optimization process takes a long time. Please maintain approximately 500 epochs. :smile:
