@@ -3,7 +3,7 @@ The repo is the official implementation for the paper: [DLFormer: Enhancing Expl
 
 # Architecture
 **Overall Structure**
-![Image](https://github.com/user-attachments/assets/23e28688-5c22-4848-b773-4383795e5177)
+![Image](https://github.com/user-attachments/assets/2a8c5705-d833-4cb2-871a-9749450af9e2)
 **DL Embedding**
 ![Image](https://github.com/user-attachments/assets/813a3b69-cac5-42c1-bf7f-1b062f71efce)
 
