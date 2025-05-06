@@ -1,5 +1,5 @@
 # DLFormer - Pytorch Implementation
-The repo is the official implementation for the paper: [DLFormer: Enhancing Explainability in Time Series Forecasting using Distributed Lag Machanism](https://arxiv.org/abs/2408.16896)
+The repo is the official implementation for the paper: [DLFormer: Enhancing Explainability in Time Series Forecasting using Distributed Lag Machanism]
 
 # Architecture
 **Overall Structure**
