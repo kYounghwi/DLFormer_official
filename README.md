@@ -25,7 +25,7 @@ Step3: Install the required packages.
 pip install -r requirements.txt
 ```
 
-**Training & Test**
+**Train & Test**
 ```
 python main.py --data SML --pred 96 --seq 48 --batch_size 32 --log_interval 1 --plot_interval 30
 ```
