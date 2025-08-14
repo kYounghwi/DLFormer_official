@@ -1,5 +1,5 @@
 # DLFormer - Pytorch Implementation
-The repo is the official implementation for the paper: [Distributed Lag Transformer based on Time-Variable-Aware Learning for Explainable Multivariate Time Series Forecasting]()
+The repo is the official implementation for the paper: [Distributed Lag Transformer based on Time-Variable-Aware Learning for Explainable Multivariate Time Series Forecasting](https://arxiv.org/abs/2408.16896)
 
 # Architecture
 **Overall Structure**
